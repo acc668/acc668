@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acc668
 - 👀 I’m interested in game design and development.
-- 🌱 I’m currently learning Python in Computer Science.
+- 🌱 I’m currently learning C in Computer Science. I have experience with HTML, Javascript, CSS, Python, and C.
 - 💞️ I’m not really looking to collaborate just yet.
 - 📫 Reach me at acurry2018@gmail.com
 
